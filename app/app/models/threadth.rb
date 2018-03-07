@@ -1,0 +1,2 @@
+class Threadth < ApplicationRecord
+end
